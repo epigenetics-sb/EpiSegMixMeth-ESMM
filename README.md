@@ -10,6 +10,7 @@
 This repository contains analysis scripts and supplementary data supporting the manuscript, organized by figure.
 
 If you want to use EpiSegMix and EpiSegMixMeth for your own segmentation analysis, please refer to https://gitlab.com/rahmannlab/episegmix.
+
 ---
 
 ## Citation
