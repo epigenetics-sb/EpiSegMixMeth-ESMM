@@ -1,6 +1,7 @@
-# EpiSegMix Manuscript Companion Repository
 
-## Integrated flexible DNA methylation-chromatin segmentation modeling enhances epigenomic state annotation
+
+# Integrated flexible DNA methylation-chromatin segmentation modeling enhances epigenomic state annotation
+## EpiSegMixMeth (ESMM)
 
 ![Graphical Abstract](graphical%20abstract.png)
 
