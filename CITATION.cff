@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "EpiSegMixMeth (ESMM): Integrated flexible DNA methylation-chromatin segmentation modeling"
+abstract: >
+  EpiSegMixMeth (ESMM) is the first truly integrative segmentation model combining
+  chromatin marks and DNA methylation. ESMM extends hidden Markov models with flexible
+  read count distributions and state duration modeling. Applied to 154 high-quality
+  human epigenomes from the IHEC EpiAtlas, ESMM substantially improves the annotation
+  of broad heterochromatic regions and precisely defines the boundaries of narrow
+  regulatory elements.
+authors:
+  - family-names: "Aggarwal"
+    given-names: "Nihit"
+    affiliation: "Department of Genetics, Saarland University, Saarbrücken, Germany"
+  - family-names: "Schmitz"
+    given-names: "Johanna Elena"
+    affiliation: "Algorithmic Bioinformatics, Center for Bioinformatics Saar, Saarland University, Saarbrücken, Germany"
+  - family-names: "Laufer"
+    given-names: "Lukas"
+    affiliation: "Department of Genetics, Saarland University, Saarbrücken, Germany"
+  - family-names: "Rahmann"
+    given-names: "Sven"
+    affiliation: "Algorithmic Bioinformatics, Center for Bioinformatics Saar, Saarland University, Saarbrücken, Germany"
+  - family-names: "Walter"
+    given-names: "Jörn"
+    affiliation: "Department of Genetics, Saarland University, Saarbrücken, Germany"
+  - family-names: "Salhab"
+    given-names: "Abdulrahman"
+    affiliation: "Genomics Data Science Core, Integrated Genomics Services, Sidra Medicine, Doha, Qatar"
+type: software
+license: MIT
+repository-code: "https://github.com/epigenetics-sb/EpiSegMixMeth-ESMM"
+url: "https://github.com/epigenetics-sb/EpiSegMixMeth-ESMM"
+keywords:
+  - epigenomics
+  - chromatin segmentation
+  - DNA methylation
+  - histone modifications
+  - hidden Markov model
+  - IHEC
+  - bioinformatics
+preferred-citation:
+  type: article
+  title: "Integrated flexible DNA methylation-chromatin segmentation modeling enhances epigenomic state annotation"
+  authors:
+    - family-names: "Aggarwal"
+      given-names: "Nihit"
+    - family-names: "Schmitz"
+      given-names: "Johanna Elena"
+    - family-names: "Laufer"
+      given-names: "Lukas"
+    - family-names: "Rahmann"
+      given-names: "Sven"
+    - family-names: "Walter"
+      given-names: "Jörn"
+    - family-names: "Salhab"
+      given-names: "Abdulrahman"
+  journal: "bioRxiv"
+  year: 2025
+  doi: "10.1101/2025.07.25.666820"
+  url: "https://www.biorxiv.org/content/10.1101/2025.07.25.666820v1"
+  notes: "Preprint. Update needed with journal DOI, volume, and pages upon formal publication."
